@@ -1,0 +1,15 @@
+.cold_water {
+  display: flex; /* 2. display flex to the rescue */
+  flex-direction: row;
+}
+.cold_row_now {
+    margin-left: 2rem;
+}
+.hot_row_now {
+    margin-left: 3rem;
+}
+
+.hot_water {
+  display: flex; /* 2. display flex to the rescue */
+  flex-direction: row;
+}
